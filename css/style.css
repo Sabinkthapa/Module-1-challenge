@@ -1,0 +1,149 @@
+/* Univeral selector(*) affects all element in html with given css rules */
+* { 
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* sets css rule in the html elements with the navbar class */
+.navbar {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+    
+}
+/* set css rule for the ul element which is the descendent of the element of navbar element */
+.navbar ul {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+/* Id selector which changes the color */
+#seo{
+    color: #d9dcd6;
+}
+
+.navbar ul {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.navbar ul li {
+    display: inline-block;
+    margin-left: 25px;
+    list-style-type: none;
+} 
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+ /* all <p> element on the page will be font size 16px */
+p
+ {
+    font-size: 16px;
+}
+
+/* css rule applied to the html element with class main_back in div tag */
+.main_back {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+}
+/* It sets the css rule for the html elements with search class name */
+ .search {
+    width: 100%;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff; 
+} 
+
+.search img {
+    max-height: 200px;
+} 
+/* sets the image position with float and margin properites for the class float-left */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* sets the css rule for the html element with class content */
+.content{
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* css rule applied to the html element with class benefits_container */
+.benefits_container {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefits {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Its sets the css rule for the img element  which is inside the element with class name benefits */
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* sets the css rule for the html element with the class footer */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
