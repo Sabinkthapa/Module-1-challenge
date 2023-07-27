@@ -17,7 +17,7 @@ Apart from understanding the basic structure of HTML and CSS properties, user wi
 
 Some of the screenshot will help the user to understand how it can be done:
 
-![inspect direction](./screenshots/inspect_debugging.png)
+![inspect direction](./screenshots/inspect.png)
 ![inspecting webpage](./screenshots/debugging.png)
 ![comments in css](./screenshots/comments%20in%20css%20coding.png)
 ![new respository](./screenshots/Repository_new.png)
