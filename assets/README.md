@@ -1,4 +1,4 @@
-# <Module_1_challenge>
+# <HTML_CSS_GITHUB>
 
 ## This project helps the users to understand how to organise semantic structure of the HTML in web development along with how we can increase the efficiency of the css by consolidating the selectors and properites with the given starter code. As a hired person by marketing agency with the given refactoring (existing code), my responsibilites is to make improve the code without changing the function for better accessibility standards and search engine optimization.
 
@@ -28,12 +28,12 @@ Some of the command lines for github:
 - git init 
 (The git init command creates a new Git repository.)
 - git status
-- Git add . Or (git add -a)
+- Git add . Or (git add -a)  (The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit)
 
-- Git commit -m “initial commit” 
+- Git commit -m “initial commit” (The "commit" command is used to save your changes to the local repository and sets the commit's message)
 - Git branch -M main
-- git remote add origin git@github.com:Sabinkthapa/02-challenge.git(http or ssh link in github repository)
-- git push -u origin
+- git remote add origin git@github.com:Sabinkthapa/02-challenge.git(http or ssh link in github repository) -(set-upstream and the name of the active branch to push.)
+- git push -u origin ( push your local changes to your online repository.)
 
 
 
