@@ -36,5 +36,5 @@ Some of the command lines for github:
 - git push -u origin ( push your local changes to your online repository.)
 
 ## Deployment link
-
-
+-Please check the deployed link of the website.
+-https://sabinkthapa.github.io/Semantics_html-css_portfolio/
