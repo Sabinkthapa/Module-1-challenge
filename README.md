@@ -1,4 +1,4 @@
-# <HTML_CSS_GITHUB>
+# <Semantics html ,css portfolio>
 
 ## This project helps the users to understand how to organise semantic structure of the HTML in web development along with how we can increase the efficiency of the css by consolidating the selectors and properites with the given starter code. As a hired person by marketing agency with the given refactoring (existing code), my responsibilites is to make improve the code without changing the function for better accessibility standards and search engine optimization.
 
