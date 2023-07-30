@@ -8,15 +8,12 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* set css rule of inline-block and fon-size to element h1 */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+
 
 /* sets css rule in the html elements with the navbar class */
 .navbar {
@@ -58,14 +55,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
- /* all <p> element on the page will be font size 16px */
-p
- {
-    font-size: 16px;
-}
 
-/* css rule applied to the html element with class main_back in div tag */
-   
+/* css rule applied to the html element with 
+main-background class in div tag */
 .main-background {
     height: 800px;
     width: 100%;
@@ -75,22 +67,57 @@ p
     background-position: center;
 }
 
-/* It sets the css rule for the html elements with search class name */
- .search {
-    width: 100%;
-    display: inline-block;
-    margin-left: 20px;
+/* It sets the css rule for the html elements with 
+search-engine-optimization as class name */
+.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff; 
-} 
-
-.search img {
+    color: #ffffff;
+}
+.search-engine-optimization img {
     max-height: 200px;
-} 
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+p
+ {
+    font-size: 16px;
+}
+
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
 /* sets the image position with float and margin properites for the class float-left */
 .float-left {
     float: left;
@@ -137,8 +164,20 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
 /* sets the css rule for the html element with the class footer */
 .footer {
