@@ -35,5 +35,6 @@ Some of the command lines for github:
 - git remote add origin git@github.com:Sabinkthapa/02-challenge.git(http or ssh link in github repository) -(set-upstream and the name of the active branch to push.)
 - git push -u origin ( push your local changes to your online repository.)
 
+## Deployment link
 
 
